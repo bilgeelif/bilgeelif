@@ -8,4 +8,4 @@ I am a dedicated Computer Vision Research Engineer who is passionate about devel
 
 - We can connect 🌐 <a href="https://www.linkedin.com/in/elifbilge/">LinkedIn</a> 
 
-- If you want to explore my projects in more detail, you can visit my site :dizzy: <a href="https://.com/">.com</a> :dizzy:
+- You can also check my website :dizzy: <a href="https://.com/">.com</a> :dizzy:
