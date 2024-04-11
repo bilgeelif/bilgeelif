@@ -1,11 +1,13 @@
-### Hi there, I'm Elif :slightly_smiling_face: 
+<h1 align="center">Hey there, I'm Elif</h1>
 
-I am a dedicated Computer Vision Research Engineer who is passionate about developing advanced algorithms to translate R&D projects in medical image analysis into practical applications. My goal is to contribute to a supportive community of like-minded individuals, providing ready-to-use projects for pathologists, and creating robust systems that empower healthcare professionals to deliver enhanced care.
 
-### Let's connect!
+I am a specialized Computer Vision Research Engineer with expertise in developing algorithms for analyzing medical data. I have customized algorithms that directly meet the specific needs and challenges encountered by professionals such as pathologists and radiologists, providing them with readily deployable solutions.
 
-- Feel free to reach me via :mailbox_with_mail: bbilge.elif@gmail.com
+#### Feel free to reach me via 
+:mailbox_with_mail: bbilge.elif@gmail.com
 
-- We can connect 🌐 <a href="https://www.linkedin.com/in/elif-bilge/">Elif-Bilge-Computer Vision Research Engineer on LinkedIn</a> 
+##### Let's connect! You can find my profile 
+🌐 https://www.linkedin.com/in/elif-bilge/
 
-- You can also check my website :dizzy: <a href="https://bilgeelif.github.io/">bilgeelif.github.io</a> :dizzy:
+##### For more information about my work, please visit
+:pushpin: <a href="https://bilgeelif.github.io/">bilgeelif.github.io</a> 
