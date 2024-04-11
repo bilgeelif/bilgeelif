@@ -6,6 +6,6 @@ I am a dedicated Computer Vision Research Engineer who is passionate about devel
 
 - Feel free to reach me via :mailbox_with_mail: bbilge.elif@gmail.com
 
-- We can connect 🌐 <a href="[https://www.linkedin.com/in/elifbilge/](https://www.linkedin.com/in/elif-bilge/)">LinkedIn</a> 
+- We can connect 🌐 <a href="https://www.linkedin.com/in/elif-bilge/">LinkedIn</a> 
 
 - You can also check my website :dizzy: <a href="[https://bilgeelif.github.io.com/](https://bilgeelif.github.io/)]">.com</a> :dizzy:
